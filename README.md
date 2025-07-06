@@ -1,5 +1,13 @@
-![GIF](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
-## ✨ A little more about me...
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+    </td>
+    <td>
+      <h2>✨ A little more about me...</h2>
+    </td>
+  </tr>
+</table>
 
 Hi! I’m Shivani Yadav
 🎓 B.Tech CSE Student @ Sharda University  
