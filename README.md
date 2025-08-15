@@ -67,7 +67,6 @@ I enjoy turning ideas into interactive, user-friendly solutions using the power 
 ## 🌱 Currently Exploring
 
 - MERN Stack architecture  
-- Firebase (Auth, Firestore, Hosting)  
 - AI/ML integration for frontend  
 - API security & payment gateways  
 - Scalable UI/UX design principles  
