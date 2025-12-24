@@ -47,7 +47,7 @@ I enjoy turning ideas into interactive, user-friendly solutions using the power 
 - 🍽 [**Annapoori**](https://annapoori.vercel.app) – Donation & volunteer platform with Stripe payments and Firebase integration.
 
 ### 💼 Workspaces & Productivity
-- 🐝 [**HiveNimble**](https://hivenimble.vercel.app) – A full-stack freelance dashboard with invoicing, chatbot, and calendar integration.
+- 🐝 [**Freelanchal**](https://freelanchal.vercel.app) – A full-stack freelance dashboard with invoicing, chatbot, and calendar integration.
 - 🧠 [**QuizBit**](https://ishivaniyadav.github.io/QuizBit/) – Interactive quiz app with React, Hooks, and score tracking.
 
 ### 📋 Task & Job Management
