@@ -62,7 +62,7 @@ Building scalable web applications, solving real-world problems, and continuousl
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,javascript,python,react,nodejs,express,mongodb,firebase,mysql,git,github,vscode,postman,sql,html,css,tailwindcss" />
+<img src="https://skillicons.dev/icons?i=java,javascript,python,react,nodejs,express,mongodb,firebase,mysql,git,github,vscode,postman,html,css,tailwindcss,canva,figma" />
 </p>
 
 ---
