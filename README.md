@@ -1,84 +1,170 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-    </td>
-    <td>
-      <h2>✨ A little more about me...</h2>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-Hi! I’m Shivani Yadav
-🎓 B.Tech CSE Student @ Sharda University  
-💻 Full-Stack Developer | Problem Solver | Tech Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shivani+Yadav;Software+Development+Engineer;Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Products+That+Matter+🚀" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ishivaniyadav&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 👩‍💻 About Me
 
-I'm a passionate Computer Science student who loves building things that matter.  
-What started as curiosity for how apps and websites work has turned into a journey of designing, building, and deploying real-world projects — all from scratch.
+🎓 B.Tech Computer Science & Engineering @ **Sharda University** (CGPA: **9.02**)
 
-I enjoy turning ideas into interactive, user-friendly solutions using the power of full-stack development.
+💻 Software Developer with experience building full-stack applications using **React, Node.js, Express.js, MongoDB, Firebase, and Java**.
 
----
+🧠 Strong foundation in **Data Structures & Algorithms, OOP, DBMS, Operating Systems, and Computer Networks**.
 
-## 🛠 Tech I Work With
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code)
+🚀 Passionate about developing scalable software solutions and solving real-world problems through technology.
 
 ---
 
-## 📂 Featured Projects
+## 🎯 Highlights
 
-### 🔬 AI / Health
-- 🩺 [**SwasthyaX**](https://ishivaniyadav.github.io/SwasthyaX) – Smart health prediction and recommendation system using rule-based logic and Firebase Auth.
-- 🍽 [**Annapoori**](https://annapoori.vercel.app) – Donation & volunteer platform with Stripe payments and Firebase integration.
-
-### 💼 Workspaces & Productivity
-- 🐝 [**Freelanchal**](https://freelanchal.vercel.app) – A full-stack freelance dashboard with invoicing, chatbot, and calendar integration.
-- 🧠 [**QuizBit**](https://ishivaniyadav.github.io/QuizBit/) – Interactive quiz app with React, Hooks, and score tracking.
-
-### 📋 Task & Job Management
-- ✅ [**ToDo App**](https://ishivaniyadav.github.io/toDoApp/) – LocalStorage-powered daily task manager with dark mode and filters.
-- 💼 [**WorkSyra**](https://worksyra.vercel.app/) – Job tracking dashboard with status filters, analytics, and profile editing.
-
-### 🎨 UI & Static Projects
-- 🏺 [**Mud & Muse**](https://ishivaniyadav.github.io/Mud-and-Muse/) – Minimal front-end UI for a ceramics e-commerce brand.
-- 🌦️ [**Weather App**](https://ishivaniyadav.github.io/Weather-Website/) – Live weather data fetched via API with a clean UI.
-- 🎬 [**Netflix Clone**](https://ishivaniyadav.github.io/Netflix_Clone/) – Netflix homepage replica using HTML, CSS, JS & TMDB API.
-
-### 🚗 Peer-to-Peer Solutions
-- 🚘 [**Rydhaan**](https://ishivaniyadav.github.io/Rydhaan/) – Car sharing platform enabling secure short-term vehicle rentals.
+* 🚀 Built and deployed multiple full-stack applications
+* 🧩 Solved **421+ DSA problems** (LeetCode + GeeksforGeeks)
+* 📈 LeetCode Rating: **1533**
+* 🏅 Top **35.65%** in LeetCode Contests
+* 👥 Leadership experience through E-Cell, Sharda University
+* 🌱 Exploring System Design & Scalable Backend Development
 
 ---
 
-## 🌱 Currently Exploring
+## 🛠 Tech Stack
 
-- MERN Stack architecture  
-- AI/ML integration for frontend  
-- API security & payment gateways  
-- Scalable UI/UX design principles  
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,javascript,python,cpp,react,nodejs,express,mongodb,firebase,mysql,git,github,vscode,postman" />
 
-## 📬 Let's Connect
-
-📫 Email: **ishivaniyadav7@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/ishivaniyadav)  
-🌐 Portfolio: *Coming Soon*
+</p>
 
 ---
 
-> *"Code with purpose. Design with empathy. Deliver with impact."*
+## 🚀 Featured Projects
+
+### 🐝 Freelanchal
+
+AI-powered freelance management platform featuring project tracking, invoicing, chatbot assistance, and productivity analytics.
+
+**Tech:** React • Node.js • Express • MongoDB • Firebase
+
+🔗 https://freelanchal.vercel.app
+
+---
+
+### 🍽 Annapoori
+
+Food donation and volunteer management platform connecting donors, NGOs, and volunteers with secure payment integration.
+
+**Tech:** React • Firebase • Stripe
+
+🔗 https://annapoori.vercel.app
+
+---
+
+### 🩺 SwasthyaX
+
+Health prediction and recommendation platform providing symptom-based healthcare guidance.
+
+**Tech:** JavaScript • Firebase • HTML • CSS
+
+🔗 https://ishivaniyadav.github.io/SwasthyaX
+
+---
+
+### 🚘 Rydhaan
+
+Peer-to-peer vehicle sharing platform enabling secure short-term vehicle rentals.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 https://ishivaniyadav.github.io/Rydhaan
+
+---
+
+### 🎬 Netflix Clone
+
+Responsive streaming platform UI with API-driven movie content.
+
+**Tech:** HTML • CSS • JavaScript • TMDB API
+
+🔗 https://ishivaniyadav.github.io/Netflix_Clone
+
+---
+
+### 🏺 Mud & Muse
+
+Modern e-commerce interface for a premium ceramics brand with responsive user experience.
+
+**Tech:** React • Tailwind CSS
+
+🔗 https://ishivaniyadav.github.io/Mud-and-Muse
+
+---
+
+## 🧩 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/ishivaniyadav/">
+<img src="https://img.shields.io/badge/LeetCode-214%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GeeksforGeeks-207%2B%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ishivaniyadav&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ishivaniyadav&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishivaniyadav&theme=github-compact"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:ishivaniyadav7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ishivaniyadav">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ishivaniyadav">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Code. Learn. Build. Repeat.
+
+</div>
