@@ -16,7 +16,7 @@ Building scalable applications, solving algorithmic challenges, and creating tec
 <img src="https://img.shields.io/badge/CGPA-9.04-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/DSA%20Problems-421+-58A6FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LeetCode%20Rating-1533-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Projects-6+-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Projects-16+-blueviolet?style=for-the-badge" />
 </p>
 
 </div>
