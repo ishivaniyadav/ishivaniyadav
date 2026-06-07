@@ -6,7 +6,7 @@
 
 ---
 
-<h1 align="center">👋 Hi, I'm Shivani Yadav</h1>
+<h1 align="center">Hi, I'm Shivani Yadav</h1>
 
 <h3 align="center">
 Software Development Engineer • Full Stack Developer • Problem Solver
@@ -18,13 +18,11 @@ Building scalable web applications, solving real-world problems, and continuousl
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 B.Tech Computer Science & Engineering @ **Sharda University** (CGPA: **9.04**)
+B.Tech Computer Science & Engineering @ **Sharda University** (CGPA: **9.04**)
 
-💻 Software Developer with experience building full-stack applications using modern web technologies.
-
-🧠 Strong foundation in:
+Strong foundation in:
 
 * Data Structures & Algorithms
 * Object-Oriented Programming
@@ -40,36 +38,28 @@ Building scalable web applications, solving real-world problems, and continuousl
 
 ---
 
-## 🎯 Highlights
+## Highlights
 
-* 🚀 Multiple Full-Stack Projects Deployed
-* 🧩 **421+ Problems Solved** (LeetCode + GeeksforGeeks)
-* 📈 **LeetCode Rating: 1533**
-* 🏅 Top **35.65%** in LeetCode Contests
-* 👥 Leadership Experience at E-Cell, Sharda University
-* 🎓 CGPA: **9.02**
+*  Multiple Full-Stack Projects Deployed
+*  **421+ Problems Solved** (LeetCode + GeeksforGeeks)
+*  **LeetCode Rating: 1533**
+*  Top **35.65%** in LeetCode Contests
+*  Leadership Experience at E-Cell, Sharda University
+*  CGPA: **9.04**
 
 ---
 
-## 🏆 GitHub Achievements
+##  Tech Stack
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ishivaniyadav&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://skillicons.dev/icons?i=java,javascript,python,react,nodejs,express,mongodb,firebase,mysql,git,github,vscode,postman,html,css,tailwindcss,figma" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,javascript,python,react,nodejs,express,mongodb,firebase,mysql,git,github,vscode,postman,html,css,tailwindcss,canva,figma" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🐝 Freelanchal
+### Freelanchal
 
 > AI-powered freelance management platform designed to streamline project execution and client collaboration.
 
@@ -87,7 +77,7 @@ Building scalable web applications, solving real-world problems, and continuousl
 
 ---
 
-### 🍽 Annapoori
+### Annapoori
 
 > Food donation and volunteer management platform connecting donors, NGOs, and volunteers.
 
@@ -104,7 +94,7 @@ Building scalable web applications, solving real-world problems, and continuousl
 
 ---
 
-### 🩺 SwasthyaX
+### SwasthyaX
 
 > Smart health prediction and recommendation platform focused on accessible healthcare guidance.
 
@@ -121,7 +111,7 @@ Building scalable web applications, solving real-world problems, and continuousl
 
 ---
 
-### 🚘 Rydhaan
+### Rydhaan
 
 > Peer-to-peer vehicle sharing platform enabling secure and convenient short-term rentals.
 
@@ -131,7 +121,7 @@ Building scalable web applications, solving real-world problems, and continuousl
 
 ---
 
-### 🎬 Netflix Clone
+### Netflix Clone
 
 > Netflix-inspired streaming platform interface with dynamic content rendering.
 
@@ -141,7 +131,7 @@ Building scalable web applications, solving real-world problems, and continuousl
 
 ---
 
-### 🏺 Mud & Muse
+### Mud & Muse
 
 > Modern e-commerce experience crafted for a premium ceramics brand.
 
@@ -151,25 +141,25 @@ Building scalable web applications, solving real-world problems, and continuousl
 
 ---
 
-## 🧩 Problem Solving
+## Problem Solving
 
 ### LeetCode
 
-* ✅ **214+ Problems Solved**
-* 🏆 Contest Rating: **1533**
-* 📊 Top **35.65%** Contest Ranking
-* 🔥 Maximum Streak: **78 Days**
-* 💪 100 Medium + 25 Hard Problems
+* **214+ Problems Solved**
+* Contest Rating: **1533**
+* Top **35.65%** Contest Ranking
+* Maximum Streak: **78 Days**
+* 100 Medium + 25 Hard Problems
 
 ### GeeksforGeeks
 
-* ✅ **207+ Problems Solved**
-* 📈 Coding Score: **671**
-* 🏅 Institute Rank: **111**
+* **207+ Problems Solved**
+* Coding Score: **671**
+* Institute Rank: **111**
 
 ---
 
-## 🔗 Coding Profiles
+## Coding Profiles
 
 <p align="center">
 
@@ -185,7 +175,7 @@ Building scalable web applications, solving real-world problems, and continuousl
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ishivaniyadav&show_icons=true&theme=github_dark&hide_border=true"/>
@@ -198,7 +188,7 @@ Building scalable web applications, solving real-world problems, and continuousl
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
 
@@ -220,6 +210,6 @@ Building scalable web applications, solving real-world problems, and continuousl
 
 <div align="center">
 
-### 💡 Code. Learn. Build. Repeat.
+### Code. Learn. Build. Repeat.
 
 </div>
