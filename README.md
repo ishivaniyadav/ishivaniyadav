@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines="Software+Development+Engineer;Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Products+That+Matter" 
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Development+Engineer;Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Products+That+Matter+🚀" /> 
 
 </div>
 
